@@ -1,0 +1,21 @@
+
+table{
+    background: #ccff99;
+    
+}
+caption{
+    color:#fff;
+    font-size: 24px;
+    background-color: #e98e8e;
+    
+    
+}
+output{
+    font-size: 20px;
+    color:#3300cc;
+}
+.cls1{
+    display: flex;
+    justify-content: center;
+    
+}
